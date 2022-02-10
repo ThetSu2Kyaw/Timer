@@ -11,6 +11,7 @@ button{
     padding: 7px 17px;
     cursor: pointer;
     font-size: 20px;
+    outline: none;
 }
 #start{
     border: 1px solid #331025;
