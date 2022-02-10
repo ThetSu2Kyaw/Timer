@@ -20,11 +20,11 @@ button{
     background: #f71152;
 }
 #stop{
-    background: #f70f1e;
+    background: #a9304c;
     border: 1px solid #4d080c;
 }
 #stop:hover{
-    background: #f52f3f;
+    background: #991b16;
 }
 #reset{
     padding:7px 25px;
